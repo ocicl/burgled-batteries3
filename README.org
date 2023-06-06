@@ -1,5 +1,7 @@
 * burgled-batteries3
 
+** NOTE: burgled-batteries3 doesn't work with any newer python version.  This does not build.
+
 A bridge between Python and Lisp (FFI bindings, etc.)
 
 |---------+------------------------------------------------------|
