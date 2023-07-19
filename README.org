@@ -6,6 +6,6 @@ A bridge between Python and Lisp (FFI bindings, etc.)
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/mbakke/burgled-batteries3.git |
-| commit  | e99ab25                                              |
+| commit  | f65f454                                              |
 | systems | burgled-batteries3                                   |
 |---------+------------------------------------------------------|
